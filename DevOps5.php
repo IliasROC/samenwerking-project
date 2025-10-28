@@ -4,4 +4,4 @@ function begroet($naam) {
 }
 
 echo begroet("wereld");
-?>
+?> 
